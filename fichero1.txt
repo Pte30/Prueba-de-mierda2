@@ -1,1 +1,2 @@
 Contenido inical fichero 1
+Contenido posterior a clonar
